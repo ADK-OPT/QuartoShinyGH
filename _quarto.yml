@@ -1,0 +1,6 @@
+project:
+  title: "ShinyliveTest"
+
+editor: visual
+filters:
+  - shinylive
