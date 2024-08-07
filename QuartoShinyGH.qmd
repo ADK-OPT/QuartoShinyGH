@@ -15,6 +15,7 @@ filters:
 library(shiny)
 library(bslib)
 
+
 theme <- bs_theme(font_scale = 1.5)
 
 # Define UI for app that draws a histogram ----
