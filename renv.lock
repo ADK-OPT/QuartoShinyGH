@@ -4,7 +4,7 @@
     "Repositories": [
       {
         "Name": "CRAN",
-        "URL": "http://cran.rstudio.com"
+        "URL": "https://cloud.r-project.org"
       }
     ]
   },
@@ -362,6 +362,12 @@
       ],
       "Hash": "8f96d229b7311beb32b94cf413b13f84"
     },
+    "shinylive":{
+      "Package": "shinylive",
+      "Version": "0.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    }
     "vctrs": {
       "Package": "vctrs",
       "Version": "0.6.4",
